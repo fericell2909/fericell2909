@@ -1,4 +1,4 @@
-<h1 align="center"> ⚡ Remote Senior Web Developer | Scrum Developer Certified | Computer Engineer | PHP , C# ,  React.j Vue.js Lover ⚡ </h1>
+<h1 align="center"> ⚡ Remote Senior Web Developer | Scrum Developer Certified | Computer Engineer | PHP , C# ,  React.js Vue.js Lover ⚡ </h1>
 
 
 * I am [Marco Estrada](https://www.linkedin.com/in/marcoestradalopez) :blush: with 10+ years of experience specialized in back-end development. Trained professionally to work under pressure, in accordance with the goals and objectives established by the user, and focused on reaching the delivery on time, considering all the development cycle stages for dynamic web projects.
@@ -84,7 +84,7 @@
 <tr>
     <td align="center" width="20%">
         <span><b><center>Git</center></b></span> 
-        <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+        <img height=git src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
     </td>
 </tr>  
 </tbody>
