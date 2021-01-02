@@ -84,7 +84,11 @@
 <tr>
     <td align="center" width="20%">
         <span><b><center>Git</center></b></span> 
-        <img height=git src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+        <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
+    </td>
+    <td align="center" width="20%">
+        <span><b><center>Redux</center></b></span> 
+        <img height=65px src="https://react-redux.js.org/img/redux.svg"> 
     </td>
 </tr>  
 </tbody>
