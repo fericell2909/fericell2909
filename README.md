@@ -18,7 +18,7 @@
 </td>
 
 <td align="center" width="20%">
-<span><b><center>Laravel</center></b></span> 
+<span><b><center>Laravel </center></b></span> 
 <img height=60px src="https://laravel.com/img/logomark.min.svg"> 
 </td>
 
