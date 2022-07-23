@@ -107,6 +107,8 @@
  
  - [Remote Work and Virtual Collaboration  Professional Certificate ](https://certificates.easy-lms.com/exam/session/a5a28ccc-59b2-4e30-afce-218ecf8fffc5)
 
+  - [AWS Cloud Practitioner Certified ](https://www.credly.com/badges/d064be18-3ee1-4156-bd74-350fea3b5a4e)
+
 
 
 
