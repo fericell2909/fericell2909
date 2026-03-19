@@ -1,114 +1,56 @@
-<h1 align="center"> ⚡ Remote Senior Web Developer | Scrum Developer Certified | Computer Engineer | React.js PHP C# Lover ⚡ </h1>
+# Marco Estrada López
 
+**Full Stack Developer** · 15+ years of experience · Peru 🇵🇪
 
-* I am [Marco Estrada](https://www.linkedin.com/in/marcoestradalopez) :blush: with 12+ years of experience specialized in full stack development. Trained professionally to work under pressure, in accordance with the goals and objectives established by the user, and focused on reaching the delivery on time, considering all the development cycle stages for dynamic web projects.
+I build robust and scalable digital products. Passionate about clean code, thoughtful architecture, and teams that deliver real value.
 
-* Proficient in OOP and numerous programming languages including PHP, JavaScript, .Net, with a consolidated background in SCRUM Developer Certified and project management.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-marcoestradalopez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoestradalopez)
+[![Portfolio](https://img.shields.io/badge/Portfolio-devmarcoestrada.com-c8602a?style=flat&logo=google-chrome&logoColor=white)](https://devmarcoestrada.com)
+[![Email](https://img.shields.io/badge/Email-marco@devmarcoestrada.com-333?style=flat&logo=gmail&logoColor=white)](mailto:marco@devmarcoestrada.com)
 
-* Easy to work in a team, adaptable, and willing to jump in a challenging next opportunity. 
+---
 
-## Tech Stack :computer:
+## Stack
 
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>PHP</center></b></span> 
-<img height=60px src="https://www.php.net/images/logos/new-php-logo.svg"> 
-</td>
+**Frontend**
+```
+React.js · TypeScript · Vue.js · JavaScript · Tailwind CSS · Redux
+```
 
-<td align="center" width="20%">
-<span><b><center>Laravel </center></b></span> 
-<img height=60px src="https://laravel.com/img/logomark.min.svg"> 
-</td>
+**Backend**
+```
+PHP · Laravel · C# · .NET · Node.js · GraphQL · REST APIs
+```
 
-<td align="center" width="20%">
-<span><b><center>Vue.js</center></b></span> 
-<img height=60px src="https://vuejs.org/images/logo.png"> 
-</td>
-</tr>
+**Data**
+```
+MySQL · PostgreSQL · SQL Server
+```
 
-<tr>
+**Cloud & Tools**
+```
+AWS · Git · Docker · Scrum · Jira
+```
 
-<td align="center" width="20%">
-<span><b><center>React.js</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png"> 
-</td>
+---
 
-<td align="center" width="20%">
-<span><b><center>Visual Studio</center></b></span> 
-<img height=65px src="https://visualstudio.microsoft.com/wp-content/uploads/2019/06/BrandVisualStudioWin2019-3.svg"> 
-</td>
+## Certifications
 
+| Certification | Issued by |
+|---|---|
+| AWS Cloud Practitioner | Amazon Web Services |
+| Scrum Developer Certified | SCRUMstudy |
+| Scrum Fundamentals Certified | SCRUMstudy |
 
+---
 
-<td align="center" width="20%">
-<span><b><center>GraphQL</center></b></span> 
-<img height=65px src="https://graphql.org/img/logo.svg"> 
-</td>
-</tr>
+## GitHub Stats
 
-<tr>
-<td align="center" width="20%">
-<span><b><center>SQL Server</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
+<p align="left">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fericell2909&show_icons=true&theme=default&hide_border=true&count_private=true&hide=prs&title_color=c8602a&icon_color=c8602a" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fericell2909&layout=compact&theme=default&hide_border=true&title_color=c8602a" />
+</p>
 
-<td align="center" width="20%">
-<span><b><center>MySQL</center></b></span> 
-<img height=65px src="https://www.mysql.com/common/logos/logo-mysql-170x115.png"> 
-</td>
+---
 
-<td align="center" width="20%">
-<span><b><center>Postgresql</center></b></span> 
-<img height=65px src="https://www.postgresql.org/media/img/about/press/elephant.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Scrum</center></b></span> 
-<img height=65px src="http://scrumstudy.com/Scrum-Images/logo-64.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>C#</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/245px-C_Sharp_wordmark.svg.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Javascript</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/245px-Unofficial_JavaScript_logo_2.svg.png"> 
-</td>
-</tr>
-<tr>
-    <td align="center" width="20%">
-        <span><b><center>Git</center></b></span> 
-        <img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-    </td>
-    <td align="center" width="20%">
-        <span><b><center>Redux</center></b></span> 
-        <img height=65px src="https://react-redux.js.org/img/redux.svg"> 
-    </td>
-    <td align="center" width="20%">
-        <span><b><center>AWS</center></b></span> 
-        <img height=65px src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35@2x.png"> 
-    </td>
-</tr>  
-</tbody>
-</table>
-
-
-## My Certifications :arrow_down:
-
-- [Scrum Fundamentals Certified](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumFundamentalsCertified-MarcoEstradaLopez-789011.pdf)
-
-- [Scrum Developer Certified](https://c46e136a583f7e334124-ac22991740ab4ff17e21daf2ed577041.ssl.cf1.rackcdn.com/Certificate/ScrumDeveloperCertified-MarcoEstradaLopez-774321.pdf)
- 
- - [Remote Work and Virtual Collaboration  Professional Certificate ](https://certificates.easy-lms.com/exam/session/a5a28ccc-59b2-4e30-afce-218ecf8fffc5)
-
-  - [AWS Cloud Practitioner Certified ](https://www.credly.com/badges/d064be18-3ee1-4156-bd74-350fea3b5a4e)
-
-
-
-
+*Available for remote projects and collaboration opportunities.*
