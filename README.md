@@ -6,7 +6,7 @@ I build robust and scalable digital products. Passionate about clean code, thoug
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcoestradalopez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoestradalopez)
 [![Portfolio](https://img.shields.io/badge/Portfolio-devmarcoestrada.com-c8602a?style=flat&logo=google-chrome&logoColor=white)](https://devmarcoestrada.com)
-[![Email](https://img.shields.io/badge/Email-marco@devmarcoestrada.com-333?style=flat&logo=gmail&logoColor=white)](mailto:marco@devmarcoestrada.com)
+[![Email](https://img.shields.io/badge/Email-fericell2909@gmail.com-333?style=flat&logo=gmail&logoColor=white)](mailto:fericell2909@gmail.com)
 
 ---
 
@@ -19,7 +19,7 @@ React.js · TypeScript · Vue.js · JavaScript · Tailwind CSS · Redux
 
 **Backend**
 ```
-PHP · Laravel · C# · .NET · Node.js · GraphQL · REST APIs
+Python · Django · PHP  Laravel · C# · .NET · Node.js · GraphQL · REST APIs
 ```
 
 **Data**
@@ -29,7 +29,7 @@ MySQL · PostgreSQL · SQL Server
 
 **Cloud & Tools**
 ```
-AWS · Git · Docker · Scrum · Jira
+AWS · Git · Docker · Scrum · Jira · CI/CD 
 ```
 
 ---
