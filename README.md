@@ -6,7 +6,7 @@ I build robust and scalable digital products. Passionate about clean code, thoug
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-marcoestradalopez-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoestradalopez)
 [![Portfolio](https://img.shields.io/badge/Portfolio-devmarcoestrada.com-c8602a?style=flat&logo=google-chrome&logoColor=white)](https://devmarcoestrada.com)
-[![Email](https://img.shields.io/badge/Email-fericell2909@gmail.com-333?style=flat&logo=gmail&logoColor=white)](mailto:fericell2909@gmail.com)
+[![Email](https://img.shields.io/badge/Email-info@devmarcoestrada.com-333?style=flat&logo=gmail&logoColor=white)](mailto:info@devmarcoestrada.com)
 
 ---
 
