@@ -19,17 +19,17 @@ React.js · TypeScript · Vue.js · JavaScript · Tailwind CSS · Redux
 
 **Backend**
 ```
-Python · Django · PHP  Laravel · C# · .NET · Node.js · GraphQL · REST APIs
+Python · FastAPI - Django · PHP  Laravel · C# · .NET · Node.js · GraphQL · REST APIs
 ```
 
-**Data**
+**DataBases**
 ```
-MySQL · PostgreSQL · SQL Server
+MySQL · PostgreSQL · SQL Server · Oracle
 ```
 
 **Cloud & Tools**
 ```
-AWS · Git · Docker · Scrum · Jira · CI/CD 
+AWS · Git · Docker · Scrum · Jira · CI/CD · Testing  
 ```
 
 ---
