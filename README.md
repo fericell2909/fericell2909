@@ -75,15 +75,5 @@ AWS · AWS CDK · Serverless · Docker · Git · CI/CD · Testing · Scrum · Ji
 
 **Spanish:** Native · **English:** B2 (upper-intermediate)
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=fericell2909&show_icons=true&theme=default&hide_border=true&count_private=true&hide=prs&title_color=c8602a&icon_color=c8602a" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fericell2909&layout=compact&theme=default&hide_border=true&title_color=c8602a" />
-</p>
-
----
 
 *Available for remote projects and collaboration opportunities.*
